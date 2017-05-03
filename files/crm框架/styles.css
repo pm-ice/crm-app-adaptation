@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:375px;
+  width:392px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,57 +12,57 @@
   position:absolute;
   z-index:0;
 }
-#u378 {
+#u0 {
   position:absolute;
   left:0px;
   top:0px;
-  width:375px;
-  height:647px;
+  width:392px;
+  height:664px;
 }
-#u378_input {
+#u0_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:375px;
-  height:647px;
+  width:392px;
+  height:664px;
 }
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:340px;
+  width:337px;
   margin-left:0;
   margin-right:0;
   text-align:left;
 }
-#u378.a {
-  width:340px;
+#u0.a {
+  width:337px;
   height:564px;
 }
-#u378_input.a {
+#u0_input.a {
   position:absolute;
   left:0px;
   top:0px;
-  width:340px;
+  width:337px;
   height:564px;
 }
 body.b {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:433px;
+  width:431px;
   margin-left:0;
   margin-right:0;
   text-align:left;
 }
-#u378.b {
-  width:433px;
+#u0.b {
+  width:431px;
   height:735px;
 }
-#u378_input.b {
+#u0_input.b {
   position:absolute;
   left:0px;
   top:0px;
-  width:433px;
+  width:431px;
   height:735px;
 }
