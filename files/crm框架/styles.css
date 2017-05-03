@@ -30,35 +30,39 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:395px;
+  width:340px;
   margin-left:0;
   margin-right:0;
   text-align:left;
 }
 #u378.a {
+  width:336px;
+  height:560px;
 }
 #u378_input.a {
   position:absolute;
   left:0px;
   top:0px;
-  width:391px;
-  height:660px;
+  width:336px;
+  height:560px;
 }
 body.b {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:395px;
+  width:433px;
   margin-left:0;
   margin-right:0;
   text-align:left;
 }
 #u378.b {
+  width:429px;
+  height:731px;
 }
 #u378_input.b {
   position:absolute;
   left:0px;
   top:0px;
-  width:391px;
-  height:660px;
+  width:429px;
+  height:731px;
 }
