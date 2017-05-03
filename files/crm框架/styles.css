@@ -26,6 +26,102 @@
   width:375px;
   height:647px;
 }
+#u1_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u1 {
+  position:absolute;
+  left:106px;
+  top:273px;
+  width:183px;
+  height:33px;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u2 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  white-space:nowrap;
+}
+#u3_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:248px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u3 {
+  position:absolute;
+  left:106px;
+  top:273px;
+  width:248px;
+  height:33px;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u4 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:248px;
+  white-space:nowrap;
+}
+#u5_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:221px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u5 {
+  position:absolute;
+  left:106px;
+  top:273px;
+  width:221px;
+  height:33px;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u6 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:221px;
+  white-space:nowrap;
+}
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
@@ -46,6 +142,68 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:320px;
   height:548px;
 }
+#u1.a {
+}
+#u1_div.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u2.a {
+}
+#u3.a {
+  left:36px;
+  top:221px;
+}
+#u3_div.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:248px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u4.a {
+}
+#u5.a {
+}
+#u5_div.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:221px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u6.a {
+}
 body.b {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
@@ -65,4 +223,66 @@ body.b {  background-color:rgba(255, 255, 255, 1);
   top:0px;
   width:414px;
   height:716px;
+}
+#u1.b {
+}
+#u1_div.b {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u2.b {
+}
+#u3.b {
+}
+#u3_div.b {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:248px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u4.b {
+}
+#u5.b {
+  left:97px;
+  top:341px;
+}
+#u5_div.b {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:221px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u6.b {
 }
