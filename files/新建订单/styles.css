@@ -610,7 +610,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:339px;
+  width:322px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1018,6 +1018,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u1346.a {
 }
 #u1347.a {
+  left:176px;
 }
 #u1347_div.a {
   position:absolute;
