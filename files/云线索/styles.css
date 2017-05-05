@@ -235,8 +235,8 @@
 }
 #u219 {
   position:absolute;
-  left:288px;
-  top:5px;
+  left:300px;
+  top:2px;
   width:75px;
   height:35px;
 }
@@ -3174,7 +3174,6 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u219.a {
   left:245px;
-  top:2px;
 }
 #u227.a {
   width:322px;
@@ -4937,8 +4936,7 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 #u218.b {
 }
 #u219.b {
-  left:317px;
-  top:2px;
+  left:329px;
 }
 #u227.b {
   width:414px;
